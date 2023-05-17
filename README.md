@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasin-05
 - 👀 I’m interested in Coding and Pentesting
-- 🌱 I’m currently learning HTML CSS and Pentesting
+- 🌱 I’m currently learning HTML CSS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
