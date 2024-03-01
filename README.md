@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yasin-Aslan/Python_Projects.git](https://github.com/Yasin-Aslan/Python_Projects.git)
 
-- 📫 How to reach me **mr.yasinaslan2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
