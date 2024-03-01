@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yasin-Aslan/Python_Projects.git](https://github.com/Yasin-Aslan/Python_Projects.git)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
