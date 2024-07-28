@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CyberSec's GitHub Profile</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -30,7 +29,7 @@
         <p>📚 Currently learning Cybersecurity and Networking.</p>
     </section>
     <footer>
-        <p>&copy; 2023 CyberSec. All rights reserved.</p>
+        <p>&copy; 2020 CyberSec. All rights reserved.</p>
         <ul>
             <li><a href="#privacy">Privacy Policy</a></li>
             <li><a href="#terms">Terms of Service</a></li>
